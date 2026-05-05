@@ -1,4 +1,4 @@
-"""Leeds Bradford Airport (LBA) destinations — April 2026."""
+"""Leeds Bradford Airport (LBA) destinations — May 2026."""
 
 DESTINATIONS = {
     "LBA": {
@@ -15,6 +15,7 @@ DESTINATIONS = {
             "BER": "Berlin",
             "BFS": "Belfast Intl",
             "BGO": "Bergen",
+            "BHD": "Belfast City",
             "BJV": "Bodrum",
             "BOJ": "Bourgas",
             "BTS": "Bratislava",
@@ -39,7 +40,6 @@ DESTINATIONS = {
             "GRO": "Girona",
             "GVA": "Geneva",
             "HER": "Heraklion",
-            "HRG": "Hurghada",
             "IBZ": "Ibiza",
             "JER": "Jersey",
             "JSI": "Skiathos",
@@ -68,13 +68,11 @@ DESTINATIONS = {
             "RIX": "Riga",
             "SKG": "Thessaloniki",
             "SPU": "Split",
-            "SSH": "Sharm El Sheikh",
             "SZG": "Salzburg",
             "TFS": "Tenerife South",
             "VIE": "Vienna",
             "VRN": "Verona",
             "WAW": "Warsaw",
-            "WRO": "Wroclaw",
             "XRY": "Jerez",
             "ZAD": "Zadar",
             "ZTH": "Zante",
